@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kawpow Miner</string>
+    <string name="title_activity_main">Kawpow Miner</string>
+    <string name="package_name">com.kawpow.miner</string>
+    <string name="custom_url_scheme">com.kawpow.miner</string>
+</resources>
